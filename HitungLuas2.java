@@ -8,6 +8,10 @@ class HitungLuas2 {
 		return (alas * tinggi) / 2;
 	}
 
+	public static float cariLuasLingkaran(int jarijari) {
+		return (22 * jarijari * jarijari) / 7;
+	}
+
 	public static void main (String[] args) {
 
 	}
